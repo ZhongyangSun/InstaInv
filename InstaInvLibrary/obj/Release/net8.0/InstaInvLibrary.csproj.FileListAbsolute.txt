@@ -1,0 +1,12 @@
+D:\source\repos\InstaInv\InstaInvLibrary\bin\Release\net8.0\InstaInvLibrary.deps.json
+D:\source\repos\InstaInv\InstaInvLibrary\bin\Release\net8.0\InstaInvLibrary.dll
+D:\source\repos\InstaInv\InstaInvLibrary\bin\Release\net8.0\InstaInvLibrary.pdb
+D:\source\repos\InstaInv\InstaInvLibrary\obj\Release\net8.0\InstaInvLibrary.csproj.AssemblyReference.cache
+D:\source\repos\InstaInv\InstaInvLibrary\obj\Release\net8.0\InstaInvLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\InstaInv\InstaInvLibrary\obj\Release\net8.0\InstaInvLibrary.AssemblyInfoInputs.cache
+D:\source\repos\InstaInv\InstaInvLibrary\obj\Release\net8.0\InstaInvLibrary.AssemblyInfo.cs
+D:\source\repos\InstaInv\InstaInvLibrary\obj\Release\net8.0\InstaInvLibrary.csproj.CoreCompileInputs.cache
+D:\source\repos\InstaInv\InstaInvLibrary\obj\Release\net8.0\InstaInvLibrary.dll
+D:\source\repos\InstaInv\InstaInvLibrary\obj\Release\net8.0\refint\InstaInvLibrary.dll
+D:\source\repos\InstaInv\InstaInvLibrary\obj\Release\net8.0\InstaInvLibrary.pdb
+D:\source\repos\InstaInv\InstaInvLibrary\obj\Release\net8.0\ref\InstaInvLibrary.dll

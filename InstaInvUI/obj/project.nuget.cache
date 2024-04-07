@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "yJ+9OQ4S1jeYE/JncowZBhjos1VwnxTvPkClF+jDGBI70Cll/xjEiZJD61wHlkgkW7AbEZeu2W8s8xx3mC0dFw==",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\InstaInv\\InstaInvUI\\InstaInvUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zysun\\.nuget\\packages\\harfbuzzsharp\\7.3.0.1\\harfbuzzsharp.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\zysun\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0.1\\harfbuzzsharp.nativeassets.macos.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\zysun\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0.1\\harfbuzzsharp.nativeassets.win32.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\zysun\\.nuget\\packages\\questpdf\\2023.12.4\\questpdf.2023.12.4.nupkg.sha512",
+    "C:\\Users\\zysun\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\zysun\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.7\\skiasharp.harfbuzz.2.88.7.nupkg.sha512",
+    "C:\\Users\\zysun\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\zysun\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512"
+  ],
+  "logs": []
+}

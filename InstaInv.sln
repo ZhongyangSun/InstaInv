@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaInvUI", "InstaInvUI\InstaInvUI.csproj", "{10067F44-A2C4-451E-9658-96A84385BF72}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5D650228-CAB8-4EB3-B392-2597B2299F27} = {5D650228-CAB8-4EB3-B392-2597B2299F27}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaInvLibrary", "InstaInvLibrary\InstaInvLibrary.csproj", "{5D650228-CAB8-4EB3-B392-2597B2299F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10067F44-A2C4-451E-9658-96A84385BF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10067F44-A2C4-451E-9658-96A84385BF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10067F44-A2C4-451E-9658-96A84385BF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10067F44-A2C4-451E-9658-96A84385BF72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D650228-CAB8-4EB3-B392-2597B2299F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D650228-CAB8-4EB3-B392-2597B2299F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D650228-CAB8-4EB3-B392-2597B2299F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D650228-CAB8-4EB3-B392-2597B2299F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F1E4F8-A418-477F-B805-0CD12962DE96}
+	EndGlobalSection
+EndGlobal
